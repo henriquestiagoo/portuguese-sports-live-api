@@ -1,6 +1,9 @@
 # portuguese-sports-api
 A Demo to show how to build your own API by web scraping content and data from different websites.
 
+## Prerequisites
+- Nodejs
+
 ## To run this project
 
 You can run this project on your local machine. Just pull it down and do the following:
